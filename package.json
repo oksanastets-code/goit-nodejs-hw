@@ -23,6 +23,7 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "commander": "^8.2.0",
     "nanoid": "^3.3.2"
   }
 }
